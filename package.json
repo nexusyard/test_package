@@ -1,6 +1,6 @@
 {
   "name": "nexus_greeting_test_2",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "This is just test",
   "main": "index.js",
   "scripts": {
